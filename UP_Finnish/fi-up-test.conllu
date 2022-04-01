@@ -1202,7 +1202,7 @@
 15	heihin	hän	PRON	PRON	Case=Ill|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_	_	A2
 16	.	.	PUNCT	PUNCT	_	2	punct	_	_	_	_
 
-# sentence-text:  Naisten mielestä mies on usein liian arkinen, liikaa jalat maassa oleva.
+# sentence-text: Naisten mielestä mies on usein liian arkinen, liikaa jalat maassa oleva.
 1	Naisten	nainen	NOUN	NOUN	Case=Gen|Number=Plur	2	nmod:poss	_	_	_	_
 2	mielestä	mieli	NOUN	NOUN	Case=Ela|Number=Sing	7	nmod	_	_	AM-LOC	_
 3	mies	mies	NOUN	NOUN	Case=Nom|Number=Sing	7	nsubj:cop	_	_	A1	_
