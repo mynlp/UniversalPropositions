@@ -1569,10 +1569,11 @@
 18	hoje	hoje	ADV	ADV	_	20	advmod	_	_	_	_	AM-TMP
 19	,	,	PUNCT	PUNCT	_	18	punct	_	_	_	_	_
 20	pensaria	pensar	VERB	VERB	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	15	ccomp	Y	think.01	_	A2	_
-21	de	de	ADP	ADP	_	22	case	_	_	_	_	_
-22	a	o	DET	DET	Definite=Def|PronType=Art	20	dep	_	_	_	_	_
-23	mesma	mesmo	DET	DET	Gender=Fem|Number=Sing	22	conj	_	_	_	_	_
-24	?	?	PUNCT	PUNCT	_	15	punct	_	_	_	_	_
+21	de	de	ADP	ADP	_	24	case	_	_	_	_	_
+22	a	o	DET	DET	Definite=Def|PronType=Art	24	det	_	_	_	_	_
+23	mesma	mesmo	DET	DET	Gender=Fem|Number=Sing	24	amod	_	_	_	_	_
+24	maneira	maneira	NOUN	NOUN	Gender=Fem|Number=Sing	20	obl	_	_	_	_	_
+25	?	?	PUNCT	PUNCT	_	15	punct	_	_	_	_	_
 
 # id="2773" ref="CP530-3" source="CETEMPúblico n=530 sec=eco sem=94a" forest="1" text="Com muitos dos papéis com a cotação interrompida em consequência do período de pagamento de dividendos, o negócio continuou pouco expressivo, sem profundidade."
 1	Com	com	ADP	ADP	_	2	case	_	_	_	_
@@ -1763,6 +1764,7 @@
 40	cotados	cotar	VERB	VERB	Gender=Masc|Number=Plur|VerbForm=Part	5	acl	_	_	_	_	_	_
 41	em	em	ADP	ADP	_	42	case	_	_	_	_	_	_
 42	Bolsa	bolsa	NOUN	NOUN	Gender=Fem|Number=Sing	40	nmod	_	_	_	_	_	_
+43	.	.	PUNCT	PUNCT	_	5	punct	_	_	_	_	_	_
 
 # id="1596" ref="CF384-4" source="CETENFolha n=384 cad=TV Folha sec=clt-soc sem=94a" forest="1" text="A incursão de Wilson Barros ao universo dos seres noturnos paulistanos revela um traço tipicamente brasileiro: uma espécie de vergonha de ser brasileiro."
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_	_	_
@@ -5604,7 +5606,7 @@
 10	peladas	pelada	NOUN	NOUN	Gender=Fem|Number=Plur	9	dobj	_	_	A1
 11	.	.	PUNCT	PUNCT	_	9	punct	_	_	_
 
-# id="3210" ref="CP615-4" source="CETEMPúblico n=615 sec=eco sem=96a" forest="1" text=" Pais Antunes, director-geral da Concorrência e Preços, não ficou «inteiramente convencido» com os argumentos avançados pela empresa gestora da rede Visa."
+# id="3210" ref="CP615-4X" source="CETEMPúblico n=615 sec=eco sem=96a" forest="1" text=" Pais Antunes, director-geral da Concorrência e Preços, não ficou «inteiramente convencido» com os argumentos avançados pela empresa gestora da rede Visa."
 1	Pais	Pais	PROPN	PROPN	Gender=Masc|Number=Plur	12	nsubj	_	_	A1
 2	Antunes	Antunes	PROPN	PROPN	Number=Sing	1	name	_	_	_
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_	_
@@ -13465,8 +13467,8 @@
 3	a	o	DET	DET	Definite=Def|PronType=Art	4	det	_	_
 4	via	via	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 5	administrativa	administrativo	ADJ	ADJ	Gender=Fem|Number=Sing	4	amod	_	_
-6	.	.	PUNCT	PUNCT	_	4	punct	_	_
-7	»	»	PUNCT	PUNCT	_	4	punct	_	_
+6	»	»	PUNCT	PUNCT	_	4	punct	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # id="1115" ref="CP207-2" source="CETEMPúblico n=207 sec=clt sem=97b" forest="1" text="Drosnin e muitos dos seus seguidores aceitam acriticamente o episódio Rabin como «prova extraordinária» do código da Bíblia."
 1	Drosnin	Drosnin	PROPN	PROPN	Gender=Unsp|Number=Sing	8	nsubj	_	_	A0
@@ -17805,45 +17807,44 @@
 23	dar	dar	VERB	VERB	VerbForm=Inf	13	ccomp	Y	let.01	_	A1	_
 24	.	.	PUNCT	PUNCT	_	13	punct	_	_	_	_	_
 
-# id="4910" ref="CP953-2" source="CETEMPúblico n=953 sec=eco sem=92a &W" forest="1" text="O deputado disse mesmo que o «o Governo está, deliberadamente, a querer desvalorizar politicamente um problema que é um escândalo financeiro gravíssimo que envolve muitos milhares de contos em fugas ao fisco»."
+# id="4910" ref="CP953-2" source="CETEMPúblico n=953 sec=eco sem=92a &W" forest="1" text="O deputado disse mesmo que «o Governo está, deliberadamente, a querer desvalorizar politicamente um problema que é um escândalo financeiro gravíssimo que envolve muitos milhares de contos em fugas ao fisco»."
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_	_	_	_	_
 2	deputado	deputado	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_	A0	_	_	_
 3	disse	dizer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	Y	say.01	_	_	_	_
 4	mesmo	mesmo	ADV	ADV	_	3	advmod	_	_	AM-ADV	_	_	_
-5	que	que	SCONJ	SCONJ	_	15	mark	_	_	_	_	_	_
-6	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_	_	_	_	_
-7	«	«	PUNCT	PUNCT	_	15	punct	_	_	_	_	_	_
-8	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_	_	_	_	_
-9	Governo	Governo	PROPN	PROPN	Gender=Masc|Number=Sing	15	nsubj	_	_	_	A0	_	_
-10	está	estar	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_	_	_	_	_
-11	,	,	PUNCT	PUNCT	_	12	punct	_	_	_	_	_	_
-12	deliberadamente	deliberadamente	ADV	ADV	_	15	advmod	_	_	_	AM-MNR	_	_
-13	,	,	PUNCT	PUNCT	_	12	punct	_	_	_	_	_	_
-14	a	a	ADP	ADP	_	15	nmod	_	_	_	AM-ADV	_	_
-15	querer	querer	VERB	VERB	VerbForm=Inf	3	ccomp	Y	want.01	A1	_	_	_
-16	desvalorizar	desvalorizar	VERB	VERB	VerbForm=Inf	15	xcomp	_	_	_	A1	_	_
-17	politicamente	politicamente	ADV	ADV	_	16	advmod	_	_	_	_	_	_
-18	um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_	_	_	_	_
-19	problema	problema	NOUN	NOUN	Gender=Masc|Number=Sing	16	dobj	_	_	_	_	_	_
-20	que	que	PRON	PRON	Gender=Masc|Number=Sing|PronType=Rel	23	nsubj	_	_	_	_	A1	_
-21	é	ser	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	Y	be.01	_	_	_	_
-22	um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_	_	_	_	_
-23	escândalo	escândalo	NOUN	NOUN	Gender=Masc|Number=Sing	19	acl:relcl	_	_	_	_	A2	_
-24	financeiro	financeiro	ADJ	ADJ	Gender=Masc|Number=Sing	23	amod	_	_	_	_	_	_
-25	gravíssimo	gravíssimo	ADJ	ADJ	Gender=Masc|Number=Sing	23	amod	_	_	_	_	_	_
-26	que	que	PRON	PRON	Gender=Masc|Number=Sing|PronType=Rel	27	nsubj	_	_	_	_	_	A0
-27	envolve	envolver	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	Y	involve.01	_	_	_	_
-28	muitos	muito	DET	DET	Gender=Masc|Number=Plur	29	det	_	_	_	_	_	_
-29	milhares	milhar	NOUN	NOUN	Gender=Masc|Number=Plur	27	dobj	_	_	_	_	_	A1
-30	de	de	ADP	ADP	_	31	case	_	_	_	_	_	_
-31	contos	conto	NOUN	NOUN	Gender=Masc|Number=Plur	29	nmod	_	_	_	_	_	_
-32	em	em	ADP	ADP	_	33	case	_	_	_	_	_	_
-33	fugas	fuga	NOUN	NOUN	Gender=Fem|Number=Plur	29	nmod	_	_	_	_	_	_
-34	a	a	ADP	ADP	_	36	case	_	_	_	_	_	_
-35	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_	_	_	_	_
-36	fisco	fisco	NOUN	NOUN	Gender=Masc|Number=Sing	33	nmod	_	_	_	_	_	_
-37	»	»	PUNCT	PUNCT	_	15	punct	_	_	_	_	_	_
-38	.	.	PUNCT	PUNCT	_	3	punct	_	_	_	_	_	_
+5	que	que	SCONJ	SCONJ	_	14	mark	_	_	_	_	_	_
+6	«	«	PUNCT	PUNCT	_	14	punct	_	_	_	_	_	_
+7	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_	_	_	_	_
+8	Governo	Governo	PROPN	PROPN	Gender=Masc|Number=Sing	14	nsubj	_	_	_	A0	_	_
+9	está	estar	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_	_	_	_	_
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_	_	_	_	_
+11	deliberadamente	deliberadamente	ADV	ADV	_	14	advmod	_	_	_	AM-MNR	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_	_	_	_	_
+13	a	a	ADP	ADP	_	14	nmod	_	_	_	AM-ADV	_	_
+14	querer	querer	VERB	VERB	VerbForm=Inf	3	ccomp	Y	want.01	A1	_	_	_
+15	desvalorizar	desvalorizar	VERB	VERB	VerbForm=Inf	14	xcomp	_	_	_	A1	_	_
+16	politicamente	politicamente	ADV	ADV	_	15	advmod	_	_	_	_	_	_
+17	um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_	_	_	_	_
+18	problema	problema	NOUN	NOUN	Gender=Masc|Number=Sing	15	dobj	_	_	_	_	_	_
+19	que	que	PRON	PRON	Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	_	_	_	_	A1	_
+20	é	ser	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	Y	be.01	_	_	_	_
+21	um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_	_	_	_	_
+22	escândalo	escândalo	NOUN	NOUN	Gender=Masc|Number=Sing	18	acl:relcl	_	_	_	_	A2	_
+23	financeiro	financeiro	ADJ	ADJ	Gender=Masc|Number=Sing	22	amod	_	_	_	_	_	_
+24	gravíssimo	gravíssimo	ADJ	ADJ	Gender=Masc|Number=Sing	22	amod	_	_	_	_	_	_
+25	que	que	PRON	PRON	Gender=Masc|Number=Sing|PronType=Rel	26	nsubj	_	_	_	_	_	A0
+26	envolve	envolver	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	Y	involve.01	_	_	_	_
+27	muitos	muito	DET	DET	Gender=Masc|Number=Plur	28	det	_	_	_	_	_	_
+28	milhares	milhar	NOUN	NOUN	Gender=Masc|Number=Plur	26	dobj	_	_	_	_	_	A1
+29	de	de	ADP	ADP	_	30	case	_	_	_	_	_	_
+30	contos	conto	NOUN	NOUN	Gender=Masc|Number=Plur	28	nmod	_	_	_	_	_	_
+31	em	em	ADP	ADP	_	32	case	_	_	_	_	_	_
+32	fugas	fuga	NOUN	NOUN	Gender=Fem|Number=Plur	28	nmod	_	_	_	_	_	_
+33	a	a	ADP	ADP	_	35	case	_	_	_	_	_	_
+34	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_	_	_	_	_
+35	fisco	fisco	NOUN	NOUN	Gender=Masc|Number=Sing	32	nmod	_	_	_	_	_	_
+36	»	»	PUNCT	PUNCT	_	14	punct	_	_	_	_	_	_
+37	.	.	PUNCT	PUNCT	_	3	punct	_	_	_	_	_	_
 
 # id="4253" ref="CP827-4" source="CETEMPúblico n=827 sec=pol sem=92a" forest="1" text="Hoje mesmo, o Parlamento ver-se-á confrontado com a proposta de resolução que o CDS vai apresentar, visando dotá-lo de poderes de revisão constitucional de modo a permitir o recurso ao referendo que os centristas defendem para ratificar as propostas de Maastricht."
 1	Hoje	Hoje	ADP	ADP	_	2	case	_	_	_	_	_	_	_
@@ -21512,6 +21513,7 @@
 14	Bolsa	Bolsa	PROPN	PROPN	Gender=Fem|Number=Sing	11	nmod	_	_	_	AM-LOC
 15	de	de	ADP	ADP	_	16	case	_	_	_	_
 16	Lisboa	Lisboa	PROPN	PROPN	Number=Sing	14	nmod	_	_	_	_
+17	.	.	PUNCT	PUNCT	_	4	punct	_	_	_	_
 
 # id="1565" ref="CP293-10" source="CETEMPúblico n=293 sec=des sem=92b" forest="1" text="O português Pedro Chaves (Lola / Cosworth) terminou ontem a corrida de Fórmula 3000 disputada em Hockenheim no 13º. lugar, parando logo a seguir à meta com o motor partido."
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_	_	_
@@ -21826,6 +21828,7 @@
 24	Sonhos	Sonhos	PROPN	PROPN	Number=Sing	21	nmod	_	_	_
 25	)	)	PUNCT	PUNCT	_	21	punct	_	_	_
 26	2	2	NUM	NUM	_	17	nummod	_	_	_
+27	.	.	PUNCT	PUNCT	_	1	punct	_	_	_
 
 # id="2927" ref="CF698-1" source="CETENFolha n=698 cad=Brasil sec=pol sem=94a" forest="1" text="Governador apóia ação da PF"
 1	Governador	governador	NOUN	NOUN	Gender=Masc|Number=Sing	2	nsubj	_	_	A0

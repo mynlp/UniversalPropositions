@@ -3282,13 +3282,13 @@
 55	.	.	PUNCT	PUNCT	_	19	punct	_	_	_	_	_	_	_
 
 # id="3286" ref="CP631-1" source="CETEMPúblico n=631 sec=clt sem=98b" forest="1" text="... ela atende a Academia Sueca ..."
-1	..	..	PUNCT	PUNCT	_	3	punct	_	_	_
+1	...	...	PUNCT	PUNCT	_	3	punct	_	_	_
 2	ela	ele	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	A0
 3	atende	atender	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	Y	answer.01	_
 4	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_	_
 5	Academia	Academia	PROPN	PROPN	Gender=Fem|Number=Sing	3	dobj	_	_	AM-TMP
 6	Sueca	Sueca	PROPN	PROPN	Number=Sing	5	name	_	_	_
-7	..	..	PUNCT	PUNCT	_	3	punct	_	_	_
+7	...	...	PUNCT	PUNCT	_	3	punct	_	_	_
 
 # id="2755" ref="CF659-7" source="CETENFolha n=659 cad=Caderno Especial sec=nd sem=94a" forest="1" text="Por isso está como cego em tiroteio."
 1	Por	por	ADP	ADP	_	2	case	_	_	_
@@ -3529,6 +3529,7 @@
 24	a	o	PRON	PRON	Gender=Fem|Number=Sing|PronType=Dem	22	nmod	_	_	_	_	_	_	A0
 25	de	de	ADP	ADP	_	26	case	_	_	_	_	_	_	_
 26	94	94	NUM	NUM	_	24	nmod	_	_	_	_	_	_	_
+27	.	.	PUNCT	PUNCT	_	3	punct	_	_	_	_	_	_	_
 
 # id="2753" ref="CP526-4" source="CETEMPúblico n=526 sec=clt-soc sem=95a" forest="1" text="Ao contrário do processamento vectorial, em que vários processadores utilizam a mesma memória -- e onde, na opinião de Heitor Pina, apenas poderão existir progressos marginais --, as máquinas de processamento paralelo, surgidas nos anos 60 e generalizadas no final da década de 80, têm uma memória dedicada para cada processador, acabando com os «engarrafamentos» na partilha da memória."
 1	Ao	Ao	ADP	ADP	_	2	case	_	_	_	_	_	_	_	_
