@@ -9389,39 +9389,40 @@
 16	.	.	PUNCT	$.	_	15	punct	_	_
 
 # sent_id dev-s576/de
-1	Roman	Roman	PROPN	NN	_	2	name	_	_	_
-2	Herzog	Herzog	PROPN	NE	Case=Nom|Number=Sing	9	nsubj	_	_	A0
-3	und	und	CONJ	KON	_	2	cc	_	_	_
-4	Bundeswehr	Bundeswehr	PROPN	NN	_	6	name	_	_	_
-5	--	--	PUNCT	$(	_	6	punct	_	_	_
-6	Generalinspekteur	Generalinspekteur	NOUN	NN	_	2	conj	_	_	_
-7	Klaus	Klaus	PROPN	NE	_	8	name	_	_	_
-8	Naumann	Naumann	PROPN	NE	_	6	appos	_	_	_
-9	gaben	vorgeben	VERB	VVFIN	Number=Plur|Person=3|VerbForm=Fin	0	root	Y	pretend.01	_
-10	in	in	ADP	APPR	_	12	case	_	_	_
-11	ihren	ihr	PRON	PPOSAT	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	det:poss	_	_	_
-12	Eröffnungsreden	Eröffnungsrede	NOUN	NN	Case=Dat|Number=Plur	9	nmod	_	_	_
-13	auf	auf	ADP	APPR	_	17	case	_	_	_
-14	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_	_
-15	35	35	NUM	CARD	Case=Dat|Gender=Fem|Number=Sing|NumType=Card	17	amod	_	_	_
-16	.	.	PUNCT	$.	_	15	punct	_	_	_
-17	Kommandeurstagung	Kommandeurstagung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	_	_
-18-19	am	_	_	_	_	_	_	_	_	_
-18	an	an	ADP	APPR	_	20	case	_	_	_
-19	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	20	det	_	_	_
-20	Mittwoch	Mittwoch	PROPN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	9	nmod	_	_	AM-TMP
-21	in	in	ADP	APPR	_	22	case	_	_	_
-22	München	München	PROPN	NE	_	9	nmod	_	_	_
-23	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	det	_	_	_
-24	Thema	Thema	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	9	dobj	_	_	A1
-25	vor	vor	ADP	PTKVZ	_	9	compound:prt	_	_	_
-26	:	:	PUNCT	$.	_	9	punct	_	_	_
-27	die	der	DET	ART	Definite=Def|PronType=Art	29	det	_	_	_
-28	wachsenden	wachsend	ADJ	ADJA	Degree=Pos	29	amod	_	_	_
-29	Personalprobleme	Personalproblem	NOUN	NN	_	9	appos	_	_	_
-30	der	der	DET	ART	Definite=Def|PronType=Art	31	det	_	_	_
-31	Bundeswehr	Bundeswehr	PROPN	NN	_	29	nmod	_	_	_
-32	.	.	PUNCT	$.	_	9	punct	_	_	_
+1	Bundespräsident	Bundespräsident	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	dep	_	_	_
+2	Roman	Roman	PROPN	NN	_	3	name	_	_	_
+3	Herzog	Herzog	PROPN	NE	Case=Nom|Number=Sing	10	nsubj	_	_	A0
+4	und	und	CONJ	KON	_	3	cc	_	_	_
+5	Bundeswehr	Bundeswehr	PROPN	NN	_	7	name	_	_	_
+6	-	-	PUNCT	$(	_	7	punct	_	_	_
+7	Generalinspekteur	Generalinspekteur	NOUN	NN	_	3	conj	_	_	_
+8	Klaus	Klaus	PROPN	NE	_	9	name	_	_	_
+9	Naumann	Naumann	PROPN	NE	_	7	appos	_	_	_
+10	gaben	vorgeben	VERB	VVFIN	Number=Plur|Person=3|VerbForm=Fin	0	root	Y	pretend.01	_
+11	in	in	ADP	APPR	_	13	case	_	_	_
+12	ihren	ihr	PRON	PPOSAT	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det:poss	_	_	_
+13	Eröffnungsreden	Eröffnungsrede	NOUN	NN	Case=Dat|Number=Plur	10	nmod	_	_	_
+14	auf	auf	ADP	APPR	_	18	case	_	_	_
+15	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_	_
+16	35	35	NUM	CARD	Case=Dat|Gender=Fem|Number=Sing|NumType=Card	18	amod	_	_	_
+17	.	.	PUNCT	$.	_	16	punct	_	_	_
+18	Kommandeurstagung	Kommandeurstagung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	_	_
+19-20	am	_	_	_	_	_	_	_	_	_
+19	an	an	ADP	APPR	_	21	case	_	_	_
+20	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	21	det	_	_	_
+21	Mittwoch	Mittwoch	PROPN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	10	nmod	_	_	AM-TMP
+22	in	in	ADP	APPR	_	23	case	_	_	_
+23	München	München	PROPN	NE	_	10	nmod	_	_	_
+24	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	25	det	_	_	_
+25	Thema	Thema	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	10	dobj	_	_	A1
+26	vor	vor	ADP	PTKVZ	_	10	compound:prt	_	_	_
+27	:	:	PUNCT	$.	_	10	punct	_	_	_
+28	die	der	DET	ART	Definite=Def|PronType=Art	30	det	_	_	_
+29	wachsenden	wachsend	ADJ	ADJA	Degree=Pos	30	amod	_	_	_
+30	Personalprobleme	Personalproblem	NOUN	NN	_	10	appos	_	_	_
+31	der	der	DET	ART	Definite=Def|PronType=Art	32	det	_	_	_
+32	Bundeswehr	Bundeswehr	PROPN	NN	_	30	nmod	_	_	_
+33	.	.	PUNCT	$.	_	10	punct	_	_	_
 
 # sent_id dev-s577/de
 1	Nach	nach	ADP	APPR	_	2	case	_	_	_	_
@@ -10042,24 +10043,25 @@
 23	.	.	PUNCT	$.	_	7	punct	_	_	_
 
 # sent_id dev-s607/de
-1	Straßen	Straße	NOUN	NN	Case=Nom|Number=Plur	12	nsubj	_	_	A0
-2	mit	mit	ADP	APPR	_	3	case	_	_	_
-3	Kopfsteinpflaster	Kopfsteinpflaster	NOUN	NN	Case=Dat|Number=Sing	1	nmod	_	_	_
-4	und	und	CONJ	KON	_	1	cc	_	_	_
-5	pastellfarbene	pastellfarbene	ADJ	ADJA	Degree=Pos	6	amod	_	_	_
-6	Gipsfassaden	Gipsfassaden	NOUN	NN	_	1	conj	_	_	_
-7	aus	aus	ADP	APPR	_	11	case	_	_	_
-8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	_	_
-9	18	18	NUM	CARD	Case=Dat|Gender=Masc,Neut|Number=Sing|NumType=Card	11	amod	_	_	_
-10	.	.	PUNCT	$.	_	9	punct	_	_	_
-11	Jahrhundert	Jahrhundert	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	1	nmod	_	_	_
-12	machen	machen	VERB	VVFIN	Number=Plur|Person=3|VerbForm=Fin	0	root	Y	do.02	_
-13	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_	_
-14	Boheme	Boheme	NOUN	NN	_	16	compound	_	_	_
-15	--	--	PUNCT	$(	_	16	punct	_	_	_
-16	Viertel	Viertel	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	12	dobj	_	_	A1
-17	interessant	interessant	ADJ	ADJD	Degree=Pos	12	xcomp	_	_	_
-18	.	.	PUNCT	$.	_	12	punct	_	_	_
+1	Baumbestandene	baumbestanden	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Plur	2	dep	_	_	_
+2	Straßen	Straße	NOUN	NN	Case=Nom|Number=Plur	13	nsubj	_	_	A0
+3	mit	mit	ADP	APPR	_	4	case	_	_	_
+4	Kopfsteinpflaster	Kopfsteinpflaster	NOUN	NN	Case=Dat|Number=Sing	2	nmod	_	_	_
+5	und	und	CONJ	KON	_	2	cc	_	_	_
+6	pastellfarbene	pastellfarbene	ADJ	ADJA	Degree=Pos	7	amod	_	_	_
+7	Gipsfassaden	Gipsfassaden	NOUN	NN	_	2	conj	_	_	_
+8	aus	aus	ADP	APPR	_	12	case	_	_	_
+9	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	12	det	_	_	_
+10	18	18	NUM	CARD	Case=Dat|Gender=Masc,Neut|Number=Sing|NumType=Card	12	amod	_	_	_
+11	.	.	PUNCT	$.	_	10	punct	_	_	_
+12	Jahrhundert	Jahrhundert	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	2	nmod	_	_	_
+13	machen	machen	VERB	VVFIN	Number=Plur|Person=3|VerbForm=Fin	0	root	Y	do.02	_
+14	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_	_
+15	Boheme	Boheme	NOUN	NN	_	17	compound	_	_	_
+16	--	--	PUNCT	$(	_	17	punct	_	_	_
+17	Viertel	Viertel	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	13	dobj	_	_	A1
+18	interessant	interessant	ADJ	ADJD	Degree=Pos	13	xcomp	_	_	_
+19	.	.	PUNCT	$.	_	13	punct	_	_	_
 
 # sent_id dev-s608/de
 1	Wissen	wissen	NOUN	VVFIN	Case=Nom|Number=Sing	6	nsubj	_	_	A0
@@ -11788,23 +11790,24 @@
 18	.	.	PUNCT	$.	_	6	punct	_	_
 
 # sent_id dev-s687/de
-1	Wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_	A0	_
-2	wissen	wissen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	ccomp	Y	know.01	_	A1
-3	immer	immer	ADV	ADV	_	4	advmod	_	_	_	_
-4	noch	noch	ADV	ADV	_	2	advmod	_	_	AM-TMP	_
-5	nichts	nichts	PRON	PIS	Case=Acc|Number=Sing|PronType=Neg	2	dobj	_	_	A1	_
-6	über	über	ADP	APPR	_	8	case	_	_	_	_
-7	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_	_	_
-8	Herkunft	Herkunft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_	A2	_
-9	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	10	det	_	_	_	_
-10	Virus	Virus	NOUN	NN	Case=Gen|Gender=Masc,Neut|Number=Sing	8	nmod	_	_	_	_
-11	'	'	PUNCT	$(	_	10	punct	_	_	_	_
-12	,	,	PUNCT	$,	_	14	punct	_	_	_	_
-13	''	''	PUNCT	$(	_	14	punct	_	_	_	_
-14	gibt	zugeben	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	Y	admit.01	_	_
-15	Murray	Murray	PROPN	NE	Case=Nom|Number=Sing	14	nsubj	_	_	_	A0
-16	zu	zu	ADP	PTKVZ	_	14	compound:prt	_	_	_	_
-17	.	.	PUNCT	$.	_	14	punct	_	_	_	_
+1	``	``	PUNCT	$(	_	2	punct	_	_	_	_
+2	Wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_	A0	_
+3	wissen	wissen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	ccomp	Y	know.01	_	A1
+4	immer	immer	ADV	ADV	_	5	advmod	_	_	_	_
+5	noch	noch	ADV	ADV	_	3	advmod	_	_	AM-TMP	_
+6	nichts	nichts	PRON	PIS	Case=Acc|Number=Sing|PronType=Neg	3	dobj	_	_	A1	_
+7	über	über	ADP	APPR	_	9	case	_	_	_	_
+8	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_	_	_
+9	Herkunft	Herkunft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_	A2	_
+10	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	_	_	_
+11	Virus	Virus	NOUN	NN	Case=Gen|Gender=Masc,Neut|Number=Sing	9	nmod	_	_	_	_
+12	'	'	PUNCT	$(	_	11	punct	_	_	_	_
+13	''	''	PUNCT	$(	_	15	punct	_	_	_	_
+14	,	,	PUNCT	$,	_	15	punct	_	_	_	_
+15	gibt	zugeben	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	Y	admit.01	_	_
+16	Murray	Murray	PROPN	NE	Case=Nom|Number=Sing	15	nsubj	_	_	_	A0
+17	zu	zu	ADP	PTKVZ	_	15	compound:prt	_	_	_	_
+18	.	.	PUNCT	$.	_	15	punct	_	_	_	_
 
 # sent_id dev-s688/de
 1	``	``	PUNCT	$(	_	3	punct	_	_	_	_
@@ -12899,12 +12902,12 @@
 4	Geschäft	Geschäft	NOUN	NN	Case=Nom|Gender=Masc,Neut|Number=Sing	6	nsubj	_	_	A1
 5	ein	ein	DET	ART	Definite=Ind|PronType=Art	6	det	_	_	_
 6	politisches	politisch	ADJ	ADJA	Degree=Pos	0	root	_	_	A2
-7	,	,	PUNCT	$,	_	6	punct	_	_	_
-8	''	''	PUNCT	$(	_	6	punct	_	_	_
+7	''	''	PUNCT	$(	_	6	punct	_	_	_
+8	,	,	PUNCT	$,	_	6	punct	_	_	_
 9	resümiert	resümieren	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	6	parataxis	_	_	_
 10	Farnung	Farnung	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_	_
-11	``	``	PUNCT	$(	_	6	punct	_	_	_
-12	,	,	PUNCT	$,	_	6	punct	_	_	_
+11	,	,	PUNCT	$,	_	6	punct	_	_	_
+12	``	``	PUNCT	$(	_	6	punct	_	_	_
 13	und	und	CONJ	KON	_	6	cc	_	_	_
 14	beliebig	beliebig	ADV	ADJD	_	15	advmod	_	_	_
 15	schwierig	schwierig	ADJ	ADJD	Degree=Pos	6	conj	_	_	_
@@ -13197,21 +13200,23 @@
 30	.	.	PUNCT	$.	_	3	punct	_	_	_	_
 
 # sent_id dev-s757/de
-1	Gurion	Gurion	PROPN	NN	Case=Nom|Number=Sing	14	nsubjpass	_	_	A1
-2	und	und	CONJ	KON	_	1	cc	_	_	_
-3	seine	sein	PRON	PPOSAT	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_	_
-4	Außenministerin	Außenministerin	NOUN	NN	_	1	conj	_	_	_
-5	Golda	Golda	PROPN	NE	_	6	name	_	_	_
-6	Meir	Meir	PROPN	NE	_	4	appos	_	_	_
-7	wurden	werden	AUX	VAFIN	Number=Plur|Person=3|VerbForm=Fin	14	auxpass	_	_	_
-8	leicht	leicht	ADV	ADJD	_	14	advmod	_	_	AM-ADV
-9	,	,	PUNCT	$,	_	1	punct	_	_	_
-10	Innenminister	Innenminister	NOUN	NN	_	1	conj	_	_	_
-11	Mosche	Mosche	PROPN	NE	_	12	name	_	_	_
-12	Schapira	Schapira	PROPN	NE	_	10	appos	_	_	_
-13	schwer	schwer	ADV	ADJD	_	14	advmod	_	_	AM-ADV
-14	verletzt	verletzen	VERB	VVPP	VerbForm=Part	0	root	Y	hurt.01	_
-15	.	.	PUNCT	$.	_	14	punct	_	_	_
+1	Ben	Ben	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	16	nsubjpass	_	_	A1
+2	-	-	PUNCT	_	_	3	punct	_	_	_
+3	Gurion	Gurion	PROPN	NN	Case=Nom|Number=Sing	1	name	_	_	_
+4	und	und	CONJ	KON	_	1	cc	_	_	_
+5	seine	sein	PRON	PPOSAT	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_	_
+6	Außenministerin	Außenministerin	NOUN	NN	_	1	conj	_	_	_
+7	Golda	Golda	PROPN	NE	_	8	name	_	_	_
+8	Meir	Meir	PROPN	NE	_	6	appos	_	_	_
+9	wurden	werden	AUX	VAFIN	Number=Plur|Person=3|VerbForm=Fin	16	auxpass	_	_	_
+10	leicht	leicht	ADV	ADJD	_	16	advmod	_	_	AM-ADV
+11	,	,	PUNCT	$,	_	1	punct	_	_	_
+12	Innenminister	Innenminister	NOUN	NN	_	1	conj	_	_	_
+13	Mosche	Mosche	PROPN	NE	_	14	name	_	_	_
+14	Schapira	Schapira	PROPN	NE	_	12	appos	_	_	_
+15	schwer	schwer	ADV	ADJD	_	16	advmod	_	_	AM-ADV
+16	verletzt	verletzen	VERB	VVPP	VerbForm=Part	0	root	Y	hurt.01	_
+17	.	.	PUNCT	$.	_	16	punct	_	_	_
 
 # sent_id dev-s758/de
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_	_	_
