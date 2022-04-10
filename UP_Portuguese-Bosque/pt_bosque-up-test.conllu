@@ -11935,7 +11935,7 @@
 24	,	,	PUNCT	PUNCT	_	21	punct	_	_	_	_	_	_
 25	qualquer	qualquer	DET	DET	Gender=Fem|Number=Sing	29	det	_	_	_	_	_	_
 26	que	que	PRON	PRON	Gender=Masc|Number=Sing|PronType=Dem	27	nsubj	_	_	_	_	_	A1
-27	que	ser	VERB	VERB	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	acl:relcl	Y	be.01	_	_	_	_
+27	fosse	ser	VERB	VERB	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	acl:relcl	Y	be.01	_	_	_	_
 28	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_	_	_	_	_
 29	época	época	NOUN	NOUN	Gender=Fem|Number=Sing	21	nmod	_	_	_	_	AM-TMP	_
 30	de	de	ADP	ADP	_	32	case	_	_	_	_	_	_
