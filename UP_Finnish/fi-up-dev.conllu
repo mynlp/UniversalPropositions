@@ -2219,18 +2219,19 @@
 8	.	.	PUNCT	PUNCT	_	3	punct	_	_	_
 
 # sentence-text: Viimeksi EU: n jäseniksi liittyneet valtiot saivat miltei 170 000 tonnin kiintiön.
-1	Viimeksi	viimeksi	ADV	ADV	_	4	advmod	_	_	AM-TMP	_
-2	EU:n	EU	PROPN	PROPN	Abbr=Yes|Case=Gen|Number=Sing	3	nmod:poss	_	_	_	_
-3	jäseniksi	jäsen	NOUN	NOUN	Case=Tra|Number=Plur	4	xcomp	_	_	A3	_
-4	liittyneet	liittyä	VERB	VERB	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	5	acl	Y	join.01	_	_
-5	valtiot	valtio	NOUN	NOUN	Case=Nom|Number=Plur	6	nsubj	_	_	A1	A0
-6	saivat	saada	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	Y	get.01	_	_
-7	miltei	miltei	ADV	ADV	_	9	advmod	_	_	_	_
-8	170	170	NUM	NUM	NumType=Card	9	compound	_	_	_	_
-9	000	000	NUM	NUM	NumType=Card	10	nummod	_	_	_	_
-10	tonnin	tonni	NOUN	NOUN	Case=Gen|Number=Sing	11	nmod:poss	_	_	_	_
-11	kiintiön	kiintiö	NOUN	NOUN	Case=Gen|Number=Sing	6	dobj	_	_	_	A1
-12	.	.	PUNCT	PUNCT	_	6	punct	_	_	_	_
+1	Viimeksi	viimeksi	ADV	ADV	_	5	advmod	_	_	AM-TMP	_
+2	EU:	EU	PROPN	PROPN	Abbr=Yes|Case=Gen|Number=Sing	4	nmod:poss	_	_	_	_
+3	n	n	NOUN	N	Case=Gen|Number=Sing|Typo=Yes	2	goeswith	_	_	_	_
+4	jäseniksi	jäsen	NOUN	NOUN	Case=Tra|Number=Plur	5	xcomp	_	_	A3	_
+5	liittyneet	liittyä	VERB	VERB	Case=Nom|Degree=Pos|Number=Plur|PartForm=Past|VerbForm=Part|Voice=Act	6	acl	Y	join.01	_	_
+6	valtiot	valtio	NOUN	NOUN	Case=Nom|Number=Plur	7	nsubj	_	_	A1	A0
+7	saivat	saada	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	Y	get.01	_	_
+8	miltei	miltei	ADV	ADV	_	10	advmod	_	_	_	_
+9	170	170	NUM	NUM	NumType=Card	10	compound	_	_	_	_
+10	000	000	NUM	NUM	NumType=Card	11	nummod	_	_	_	_
+11	tonnin	tonni	NOUN	NOUN	Case=Gen|Number=Sing	12	nmod:poss	_	_	_	_
+12	kiintiön	kiintiö	NOUN	NOUN	Case=Gen|Number=Sing	7	dobj	_	_	_	A1
+13	.	.	PUNCT	PUNCT	_	7	punct	_	_	_	_
 
 # sentence-text: Tästä on aiheutunut tiettyä ylituotantoa Euroopan markkinoilla.
 1	Tästä	tämä	PRON	PRON	Case=Ela|Number=Sing|PronType=Dem	3	nmod	_	_
