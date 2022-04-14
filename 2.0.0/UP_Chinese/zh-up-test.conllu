@@ -627,7 +627,7 @@
 # text = 它 在 位 於 亨茨維爾 的 空間 系統 中心 建造 .
 1	它	它	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No	_	A1	_	_	A0
 2	在	在	VERB	VV	_	10	advcl	_	SpaceAfter=No	be.01	V	_	AM-TMP	AM-LOC
-3	位	位	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No	be.01	_	V	A1	AM-LOC
+3	位	位	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No	be.01	_	V	A1	_
 4	於	於	VERB	VV	_	3	mark	_	SpaceAfter=No	be.01	_	_	V	_
 5	亨茨維爾	亨茨維爾	PROPN	NNP	_	3	obj	_	SpaceAfter=No	_	_	A2	_	_
 6	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No	_	_	_	_	_
@@ -3318,7 +3318,7 @@
 7	無權	無權	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No	_	_	_
 8	參與	參與	VERB	VV	_	7	xcomp	_	SpaceAfter=No	involve.01	_	V
 9	制定	制定	VERB	VV	_	8	conj	_	SpaceAfter=No	_	_	_
-10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No	_	_	A2
+10	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No	_	_	_
 11	法律	法律	NOUN	NN	_	4	obj	_	SpaceAfter=No	_	A2	A2
 12	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No	_	_	_
 
@@ -3742,7 +3742,7 @@
 24	中	中	ADP	IN	_	23	acl	_	SpaceAfter=No	_	_	_	_
 25	的	的	PART	DEC	Case=Gen	23	case	_	SpaceAfter=No	_	_	_	_
 26	注射	注射	VERB	VV	_	27	compound	_	SpaceAfter=No	inject.01	_	_	V
-27	室	室	PART	SFN	_	20	conj	_	SpaceAfter=No	_	_	_	A1
+27	室	室	PART	SFN	_	20	conj	_	SpaceAfter=No	_	_	_	_
 28	相	相	ADV	RB	_	29	advmod	_	SpaceAfter=No	_	_	_	_
 29	匹配	匹配	VERB	VV	_	6	parataxis	_	SpaceAfter=No	_	_	_	A1
 30	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No	_	_	_	_
@@ -4461,7 +4461,7 @@
 # text = 結合 起來 的 火箭 稱 為 運載 火箭 .
 1	結合	結合	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No	_	_	_	_
 2	起來	起來	VERB	VV	_	1	mark	_	SpaceAfter=No	rise.01	V	_	_
-3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No	_	A1	_	_
+3	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No	_	_	_	_
 4	火箭	火箭	NOUN	NN	_	5	nsubj	_	SpaceAfter=No	_	A1	A0	_
 5	稱	稱	VERB	VV	_	0	root	_	SpaceAfter=No	call.01	_	V	_
 6	為	為	VERB	VC	_	5	mark	_	SpaceAfter=No	be.01	_	_	V
@@ -4913,8 +4913,8 @@
 9	美	美	PROPN	NNP	_	12	nmod	_	SpaceAfter=No	_	_	_	A1	_
 10	海軍	海軍	NOUN	NN	_	12	nmod	_	SpaceAfter=No	_	_	A1	A0	_
 11	戰鬥	戰鬥	VERB	VV	_	12	compound	_	SpaceAfter=No	fight.01	_	_	V	_
-12	機	機	PART	SFN	_	17	nsubj	_	SpaceAfter=No	_	_	_	_	A0
-13	向	向	ADP	IN	_	16	case	_	SpaceAfter=No	_	_	_	_	A0
+12	機	機	PART	SFN	_	17	nsubj	_	SpaceAfter=No	_	_	_	_	_
+13	向	向	ADP	IN	_	16	case	_	SpaceAfter=No	_	_	_	_	_
 14	大和	大和	PROPN	NNP	_	16	nmod	_	SpaceAfter=No	_	_	_	_	A1
 15	攻擊	攻擊	VERB	VV	_	16	compound	_	SpaceAfter=No	attack.01	_	_	_	V
 16	隊	隊	PART	SFN	_	17	obl	_	SpaceAfter=No	_	_	_	A2	_
@@ -5391,7 +5391,7 @@
 14	赤門	赤門	PROPN	NNP	_	12	obj	_	SpaceAfter=No	_	_	_	_	A1	_
 15	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No	_	_	_	_	_	_
 16	海域	海域	NOUN	NN	_	11	obj	_	SpaceAfter=No	_	_	_	A1	A0	A1
-17	及	及	CCONJ	CC	_	23	cc	_	SpaceAfter=No	_	_	_	_	_	A1
+17	及	及	CCONJ	CC	_	23	cc	_	SpaceAfter=No	_	_	_	_	_	_
 18	連接	連接	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No	connect.01	_	_	_	_	V
 19	大鵬	大鵬	PROPN	NNP	_	20	compound	_	SpaceAfter=No	_	_	_	_	_	_
 20	灣	灣	PART	SFN	_	18	obj	_	SpaceAfter=No	_	_	_	_	_	_
@@ -5490,7 +5490,7 @@
 10	加拿大	加拿大	PROPN	NNP	_	11	nmod	_	SpaceAfter=No	_	_	_	_	_
 11	資金	資金	NOUN	NN	_	12	nsubj	_	SpaceAfter=No	_	_	_	_	A0
 12	經營	經營	VERB	VV	_	9	ccomp	_	SpaceAfter=No	run.01	_	_	_	V
-13	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No	_	_	_	_	A1
+13	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No	_	_	_	_	_
 14	本地	本地	NOUN	NN	_	15	nmod	_	SpaceAfter=No	_	_	_	_	_
 15	公司	公司	NOUN	NN	_	5	obj	_	SpaceAfter=No	_	A2	_	_	A1
 16	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No	_	_	_	_	_
@@ -7640,7 +7640,7 @@
 19	體育	體育	NOUN	NN	_	20	compound	_	SpaceAfter=No	_	_	_	_
 20	館	館	PART	SFN	_	17	obj	_	SpaceAfter=No	_	_	_	_
 21	舉行	舉行	VERB	VV	_	0	root	_	SpaceAfter=No	hold.04	_	V	A1
-22	入行	入行	VERB	VV	_	26	amod	_	SpaceAfter=No	_	_	_	A1
+22	入行	入行	VERB	VV	_	26	amod	_	SpaceAfter=No	_	_	_	_
 23	27	27	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No	_	_	_	_
 24	周年	周年	NOUN	NNB	_	22	nmod:tmod	_	SpaceAfter=No	_	_	_	_
 25	演唱	演唱	VERB	VV	_	26	compound	_	SpaceAfter=No	sing.01	_	_	V
@@ -8232,7 +8232,7 @@
 19	各種	各種	DET	DT	_	20	det	_	SpaceAfter=No	_	_	_	_	_	_
 20	旗幟	旗幟	NOUN	NN	_	15	obj	_	SpaceAfter=No	_	_	_	_	A1	A1
 21	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No	_	_	_	_	_	_
-22	以及	以及	CCONJ	CC	_	29	cc	_	SpaceAfter=No	_	_	_	_	_	A1
+22	以及	以及	CCONJ	CC	_	29	cc	_	SpaceAfter=No	_	_	_	_	_	_
 23	蘇丹	蘇丹	NOUN	NN	_	27	nsubj	_	SpaceAfter=No	_	_	_	_	_	A0
 24	在	在	ADP	IN	_	26	case	_	SpaceAfter=No	_	_	_	_	_	_
 25	不同	不同	ADJ	JJ	_	26	amod	_	SpaceAfter=No	_	_	_	_	_	_
@@ -8549,7 +8549,7 @@
 4	語	語	PART	SFN	_	6	nsubj	_	SpaceAfter=No	_	_	_
 5	曾	曾	ADV	RB	_	6	advmod	_	SpaceAfter=No	_	_	_
 6	採用	採用	VERB	VV	_	13	advcl	_	SpaceAfter=No	use.01	V	AM-MNR
-7	希臘	希臘	PROPN	NNP	_	9	nmod	_	SpaceAfter=No	_	_	AM-MNR
+7	希臘	希臘	PROPN	NNP	_	9	nmod	_	SpaceAfter=No	_	_	_
 8	字母	字母	NOUN	NN	_	9	nmod	_	SpaceAfter=No	_	_	A0
 9	拼寫	拼寫	NOUN	NN	_	6	obj	_	SpaceAfter=No	_	A1	_
 10	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No	_	_	_
@@ -9355,7 +9355,7 @@
 27	重建	重建	VERB	VV	_	45	advcl	_	SpaceAfter=No	rebuild.01	_	_	V	_	_	_	_	AM-ADV	_
 28	為	為	VERB	VC	_	27	mark	_	SpaceAfter=No	be.01	_	_	_	V	_	_	_	_	_
 29	商場	商場	NOUN	NN	_	27	obj	_	SpaceAfter=No	_	_	_	A1	_	A0	_	_	_	_
-30	及	及	CCONJ	CC	_	33	cc	_	SpaceAfter=No	_	_	_	_	_	A0	_	_	_	_
+30	及	及	CCONJ	CC	_	33	cc	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
 31	辦公	辦公	VERB	VV	_	32	compound	_	SpaceAfter=No	work.01	_	_	_	_	V	_	_	_	_
 32	室	室	PART	SFN	_	33	nmod	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
 33	大廈	大廈	NOUN	NN	_	29	conj	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
@@ -9363,7 +9363,7 @@
 35	並	並	ADV	RB	_	36	mark	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
 36	設	設	VERB	VV	_	45	advcl	_	SpaceAfter=No	set_up.03	_	_	_	_	_	V	_	_	_
 37	停車	停車	VERB	VV	_	38	compound	_	SpaceAfter=No	park.01	_	_	_	_	_	_	V	_	_
-38	場	場	PART	SFN	_	36	obj	_	SpaceAfter=No	_	_	_	_	_	_	_	A1	_	_
+38	場	場	PART	SFN	_	36	obj	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
 39	,	,	PUNCT	,	_	45	punct	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
 40	於	於	ADP	IN	_	42	case	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
 41	1995	1995	NUM	CD	NumType=Card	42	nummod	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_
@@ -10092,7 +10092,7 @@
 25	位	位	NOUN	NNB	_	27	clf	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 26	美國	美國	PROPN	NNP	_	27	nmod	_	SpaceAfter=No	_	_	_	_	_	_	A0	_	_	_	_	_	_	_	_
 27	總統	總統	NOUN	NN	_	23	obj	_	SpaceAfter=No	_	_	A2	_	_	A1	A1	_	_	_	_	_	_	_	_
-28	和	和	CCONJ	CC	_	34	cc	_	SpaceAfter=No	_	_	_	_	_	_	A1	_	_	_	_	_	_	_	_
+28	和	和	CCONJ	CC	_	34	cc	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 29	12	12	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 30	位	位	NOUN	NNB	_	34	clf	_	SpaceAfter=No	_	_	_	_	_	_	AM-TMP	_	_	_	_	_	_	_	_
 31	獨立	獨立	NOUN	NN	_	34	nmod	_	SpaceAfter=No	_	_	_	_	_	_	AM-TMP	_	_	_	_	_	_	_	_
@@ -10157,7 +10157,7 @@
 90	於	於	ADP	IN	_	92	case	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 91	哈佛	哈佛	PROPN	NNP	_	92	nmod	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A1
 92	大學	大學	NOUN	NN	_	89	obl	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MNR
-93	和	和	CCONJ	CC	_	95	cc	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	AM-MNR
+93	和	和	CCONJ	CC	_	95	cc	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 94	普林斯頓	普林斯頓	PROPN	NNP	_	95	nmod	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A0
 95	大學	大學	NOUN	NN	_	92	conj	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 96	)	)	PUNCT	)	_	78	punct	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -13452,9 +13452,9 @@
 8	及	及	CCONJ	CC	_	10	cc	_	SpaceAfter=No	_	_	_	_
 9	馬爾地夫	馬爾地夫	PROPN	NNP	_	10	nmod	_	SpaceAfter=No	_	_	_	_
 10	群島	群島	NOUN	NN	_	7	conj	_	SpaceAfter=No	_	_	_	_
-11	以及	以及	CCONJ	CC	_	15	cc	_	SpaceAfter=No	_	AM-MNR	_	_
+11	以及	以及	CCONJ	CC	_	15	cc	_	SpaceAfter=No	_	_	_	_
 12	海南	海南	PROPN	NNP	_	13	compound	_	SpaceAfter=No	_	_	_	_
-13	省	省	PART	SFN	_	15	nmod	_	SpaceAfter=No	_	AM-MNR	_	_
+13	省	省	PART	SFN	_	15	nmod	_	SpaceAfter=No	_	_	_	_
 14	中沙	中沙	PROPN	NNP	_	15	nmod	_	SpaceAfter=No	_	A0	_	_
 15	群島	群島	NOUN	NN	_	7	conj	_	SpaceAfter=No	_	_	_	_
 16	等	等	NOUN	NN	_	7	acl	_	SpaceAfter=No	_	_	_	_

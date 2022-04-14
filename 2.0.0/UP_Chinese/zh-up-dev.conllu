@@ -2607,9 +2607,9 @@
 16	,	,	PUNCT	,	_	26	punct	_	SpaceAfter=No	_	_	_	_
 17	通過	通過	VERB	VV	_	26	advcl	_	SpaceAfter=No	pass.01	V	A2	_
 18	1923	1923	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No	_	_	_	_
-19	年	年	NOUN	NNB	_	23	clf	_	SpaceAfter=No	_	_	A2	_
+19	年	年	NOUN	NNB	_	23	clf	_	SpaceAfter=No	_	_	_	_
 20	華	華	PROPN	NNP	_	21	compound	_	SpaceAfter=No	_	_	_	_
-21	人	人	PART	SFN	_	23	nmod	_	SpaceAfter=No	_	_	A2	_
+21	人	人	PART	SFN	_	23	nmod	_	SpaceAfter=No	_	_	_	_
 22	移民	移民	NOUN	NN	_	23	nmod	_	SpaceAfter=No	_	_	A1	_
 23	法案	法案	NOUN	NN	_	17	obj	_	SpaceAfter=No	_	A1	_	_
 24	,	,	PUNCT	,	_	26	punct	_	SpaceAfter=No	_	_	_	_
@@ -2682,7 +2682,7 @@
 13	批	批	NOUN	NNB	_	15	clf	_	SpaceAfter=No	_	A0	_	AM-TMP
 14	剩餘	剩餘	NOUN	NN	_	15	nmod	_	SpaceAfter=No	_	_	_	AM-TMP
 15	零部件	零部件	NOUN	NN	_	35	nsubj	_	SpaceAfter=No	_	A1	A1	A0
-16	和	和	CCONJ	CC	_	18	cc	_	SpaceAfter=No	_	A1	_	_
+16	和	和	CCONJ	CC	_	18	cc	_	SpaceAfter=No	_	_	_	_
 17	紀念	紀念	VERB	VV	_	18	compound	_	SpaceAfter=No	remember.01	V	_	_
 18	品	品	PART	SFN	_	15	conj	_	SpaceAfter=No	_	_	_	_
 19	在	在	VERB	VV	_	25	advcl	_	SpaceAfter=No	be.01	_	V	_
@@ -3935,7 +3935,7 @@
 9	洗車	洗車	VERB	VV	_	10	compound	_	SpaceAfter=No	_	_
 10	台	台	PART	SFN	_	7	conj	_	SpaceAfter=No	_	_
 11	,	,	PUNCT	,	_	30	punct	_	SpaceAfter=No	_	_
-12	以及	以及	CCONJ	CC	_	30	cc	_	SpaceAfter=No	_	A1
+12	以及	以及	CCONJ	CC	_	30	cc	_	SpaceAfter=No	_	_
 13	包含	包含	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No	contain.01	V
 14	台北	台北	PROPN	NNP	_	16	nmod	_	SpaceAfter=No	_	_
 15	機務	機務	NOUN	NN	_	16	compound	_	SpaceAfter=No	_	_
@@ -3979,7 +3979,7 @@
 9	,	,	PUNCT	,	_	11	punct	_	SpaceAfter=No	_	_
 10	甚至	甚至	ADV	RB	_	11	mark	_	SpaceAfter=No	_	_
 11	設有	設有	VERB	VV	_	0	root	_	SpaceAfter=No	_	AM-NEG
-12	私人	私人	NOUN	NN	_	14	nmod	_	SpaceAfter=No	_	AM-NEG
+12	私人	私人	NOUN	NN	_	14	nmod	_	SpaceAfter=No	_	_
 13	游泳	游泳	VERB	VV	_	14	compound	_	SpaceAfter=No	swim.01	V
 14	池	池	NOUN	NN	_	11	obj	_	SpaceAfter=No	_	_
 15	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No	_	_
@@ -6392,7 +6392,7 @@
 27	接客	接客	VERB	VV	_	29	advcl	_	SpaceAfter=No	_	_	_	_	_	_
 28	時	時	ADP	IN	_	27	mark	_	SpaceAfter=No	_	_	_	_	_	_
 29	使用	使用	VERB	VV	_	20	conj	_	SpaceAfter=No	use.01	_	_	_	_	V
-30	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No	_	_	_	_	_	A1
+30	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No	_	_	_	_	_	_
 31	房屋	房屋	NOUN	NN	_	18	obj	_	SpaceAfter=No	_	_	A1	A1	_	A1
 32	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No	_	_	_	_	_	_
 
@@ -6435,7 +6435,7 @@
 8	上	上	ADP	IN	_	7	acl	_	SpaceAfter=No	_	_	_	_	_
 9	常見	常見	ADJ	JJ	_	11	amod	_	SpaceAfter=No	_	_	_	_	_
 10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No	_	_	_	_	_
-11	曲目	曲目	NOUN	NN	_	4	obj	_	SpaceAfter=No	_	A2	A2	_	_
+11	曲目	曲目	NOUN	NN	_	4	obj	_	SpaceAfter=No	_	A2	_	_	_
 12	,	,	PUNCT	,	_	16	punct	_	SpaceAfter=No	_	_	_	_	_
 13	在	在	VERB	VV	_	16	advcl	_	SpaceAfter=No	be.01	_	_	V	_
 14	歐洲	歐洲	PROPN	NNP	_	13	obj	_	SpaceAfter=No	_	_	_	A2	_
@@ -7415,7 +7415,7 @@
 1	樹	樹	NOUN	NN	_	3	nmod	_	SpaceAfter=No	_	_
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No	_	_
 3	稀有	稀有	NOUN	NN	_	10	nsubj	_	SpaceAfter=No	_	A1
-4	與	與	CCONJ	CC	_	9	cc	_	SpaceAfter=No	_	A1
+4	與	與	CCONJ	CC	_	9	cc	_	SpaceAfter=No	_	_
 5	其	其	PRON	PRP	Person=3	9	nmod	_	SpaceAfter=No	_	A0
 6	緩慢	緩慢	ADJ	JJ	_	9	amod	_	SpaceAfter=No	_	_
 7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No	_	_
@@ -8102,7 +8102,7 @@
 27	他	他	PRON	PRP	Person=3	33	nsubj	_	SpaceAfter=No	_	_	_
 28	就	就	ADV	RB	_	33	mark	_	SpaceAfter=No	_	_	_
 29	靠	靠	VERB	VV	_	33	advcl	_	SpaceAfter=No	_	_	A0
-30	越野	越野	ADJ	JJ	_	32	nmod	_	SpaceAfter=No	_	_	A0
+30	越野	越野	ADJ	JJ	_	32	nmod	_	SpaceAfter=No	_	_	_
 31	滑雪	滑雪	VERB	VV	_	32	compound	_	SpaceAfter=No	ski.01	_	V
 32	板	板	PART	SFN	_	29	obj	_	SpaceAfter=No	_	_	_
 33	上下學	上下學	VERB	VV	_	4	parataxis	_	SpaceAfter=No	_	_	_
@@ -9369,7 +9369,7 @@
 20	,	,	PUNCT	,	_	22	punct	_	SpaceAfter=No	_	_	_	_	_	_
 21	以	以	ADV	RB	_	22	mark	_	SpaceAfter=No	_	_	_	_	_	_
 22	安撫	安撫	VERB	VV	_	29	advcl	_	SpaceAfter=No	_	_	_	AM-PRP	_	_
-23	民族	民族	NOUN	NN	_	26	nmod	_	SpaceAfter=No	_	_	_	AM-PRP	_	_
+23	民族	民族	NOUN	NN	_	26	nmod	_	SpaceAfter=No	_	_	_	_	_	_
 24	主義	主義	NOUN	NN	_	26	nmod	_	SpaceAfter=No	_	_	_	A0	A0	_
 25	鼓動	鼓動	VERB	VV	_	26	compound	_	SpaceAfter=No	_	_	_	_	_	_
 26	者	者	PART	SFN	_	22	obj	_	SpaceAfter=No	_	_	_	_	_	_
@@ -9620,7 +9620,7 @@
 18	哄	哄	VERB	VV	Voice=Cau	22	acl:relcl	_	SpaceAfter=No	_	_	_	_	_
 19	小孩	小孩	NOUN	NN	_	20	nsubj	_	SpaceAfter=No	_	_	_	A0	_
 20	睡覺	睡覺	VERB	VV	_	18	ccomp	_	SpaceAfter=No	sleep.01	_	_	V	_
-21	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No	_	_	_	AM-TMP	_
+21	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No	_	_	_	_	_
 22	情況	情況	NOUN	NN	_	29	obl	_	SpaceAfter=No	_	_	_	AM-TMP	_
 23	下	下	ADP	IN	_	22	acl	_	SpaceAfter=No	_	_	_	_	_
 24	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No	_	_	_	_	_
@@ -10242,7 +10242,7 @@
 7	受到	受到	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No	be.03	V	_
 8	日本	日本	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No	_	_	A0
 9	保護	保護	VERB	VV	_	7	ccomp	_	SpaceAfter=No	protect.01	_	V
-10	之	之	PART	DEC	_	7	mark:rel	_	SpaceAfter=No	_	_	A1
+10	之	之	PART	DEC	_	7	mark:rel	_	SpaceAfter=No	_	_	_
 11	際	際	NOUN	NN	_	16	nmod:tmod	_	SpaceAfter=No	_	_	A1
 12	,	,	PUNCT	,	_	16	punct	_	SpaceAfter=No	_	_	_
 13	周	周	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No	_	_	_
@@ -10909,13 +10909,13 @@
 # text = 深焙 咖啡 一般 比 淺焙 咖啡 的 咖啡 因 含量 少 , 因為 烘焙 能 減少 咖啡 豆 裡 的 咖啡 因 含量 .
 1	深焙	深焙	NOUN	NN	_	2	nmod	_	SpaceAfter=No	_	_
 2	咖啡	咖啡	NOUN	NN	_	0	root	_	SpaceAfter=No	_	AM-TMP
-3	一般	一般	ADV	RB	_	11	advmod	_	SpaceAfter=No	_	AM-TMP
+3	一般	一般	ADV	RB	_	11	advmod	_	SpaceAfter=No	_	_
 4	比	比	ADP	IN	_	9	case	_	SpaceAfter=No	_	_
 5	淺焙	淺焙	NOUN	NN	_	6	nmod	_	SpaceAfter=No	_	_
 6	咖啡	咖啡	NOUN	NN	_	9	nmod	_	SpaceAfter=No	_	_
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No	_	_
 8	咖啡	咖啡	NOUN	NN	_	9	compound	_	SpaceAfter=No	_	_
-9	因	因	PART	SFN	_	11	nmod	_	SpaceAfter=No	_	AM-TMP
+9	因	因	PART	SFN	_	11	nmod	_	SpaceAfter=No	_	_
 10	含量	含量	NOUN	NN	_	11	nsubj	_	SpaceAfter=No	_	A0
 11	少	少	ADJ	JJ	_	2	dislocated	_	SpaceAfter=No	_	_
 12	,	,	PUNCT	,	_	11	punct	_	SpaceAfter=No	_	_

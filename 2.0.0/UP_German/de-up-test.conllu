@@ -8314,8 +8314,8 @@
 6	suchen	suchen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	ccomp	_	_	look.01	V	_	_	A1
 7	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_	_	A0	_	_	_
 8	Zuflucht	Zuflucht	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_	_	A1	_	_	_
-9	in	in	ADP	APPR	_	13	case	_	_	_	A1	_	_	A1
-10	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No	_	A1	_	_	A1
+9	in	in	ADP	APPR	_	13	case	_	_	_	_	_	_	A1
+10	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No	_	_	_	_	A1
 11	,	,	PUNCT	$,	_	10	punct	_	_	_	_	_	_	_
 12	kurdischen	kurdisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	13	amod	_	_	_	_	_	_	_
 13	Identität	Identität	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No	_	_	_	_	_
@@ -13206,7 +13206,7 @@
 27	''	''	PUNCT	$(	_	30	punct	_	_	_	_	_	_	_
 28	mit	mit	ADP	APPR	_	30	case	_	_	_	_	_	_	_
 29	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_	_	_	_	_	_
-30	Kommission	Kommission	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	26	nmod	_	_	_	_	_	_	A1
+30	Kommission	Kommission	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	26	nmod	_	_	_	_	_	_	_
 31	zu	zu	PART	PTKZU	_	32	mark	_	_	_	_	_	_	_
 32	entscheiden	entscheiden	VERB	VVINF	VerbForm=Inf	33	acl	_	_	decide.01	_	_	V	A1
 33	hat	haben	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl	_	SpaceAfter=No	have.03	_	_	_	V
@@ -13814,7 +13814,7 @@
 13	,	,	PUNCT	$,	_	16	punct	_	_	_	_
 14	sondern	sondern	CCONJ	KON	_	16	cc	_	_	_	_
 15	auch	auch	ADV	ADV	_	16	advmod	_	_	_	_
-16	Selbständige	Selbständiger	NOUN	NN	Case=Nom|Number=Plur	10	conj	_	_	_	A1
+16	Selbständige	Selbständiger	NOUN	NN	Case=Nom|Number=Plur	10	conj	_	_	_	_
 17	und	und	CCONJ	KON	_	18	cc	_	_	_	_
 18	Beamte	Beamter	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	16	conj	_	_	_	_
 19	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_	_	_
@@ -14377,10 +14377,10 @@
 # text = die Behörden seiner 1983 einseitig ausgerufenen ``Türkischen Republik Nordzypern'' geben nun eilig Besitzzertifikate für das 1974 besetzte und jetzt teils von türkischen Zyprioten, teils von in Nordzypern angesiedelten Festlandstürken bewirtschaftete Land aus.
 1	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_	_	_
 2	Behörden	Behörde	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_	_	A0
-3	seiner	sein	DET	PPOSAT	Case=Gen|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det:poss	_	_	_	A0
+3	seiner	sein	DET	PPOSAT	Case=Gen|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det:poss	_	_	_	_
 4	1983	1983	NUM	CARD	NumType=Card	6	nmod	_	_	_	_
 5	einseitig	einseitig	ADV	ADJD	_	6	advmod	_	_	_	_
-6	ausgerufenen	ausgerufen	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	_	_	A0
+6	ausgerufenen	ausgerufen	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	_	_	_
 7	''	''	PUNCT	$(	_	6	punct	_	SpaceAfter=No	_	_
 8	Türkischen	türkisch	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	_	_	_
 9	Republik	Republik	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_	_	_
@@ -14840,7 +14840,7 @@
 25	aus	aus	ADP	APPR	_	26	case	_	_	_	_	_	_	_	_
 26	Kroatien	Kroatien	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No|NamedEntity=Yes	_	_	_	_	_	_
 27	,	,	PUNCT	$,	_	28	punct	_	_	_	_	_	_	_	_
-28	Slowenien	Slowenien	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	26	conj	_	NamedEntity=Yes	_	_	_	A1	_	_
+28	Slowenien	Slowenien	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	26	conj	_	NamedEntity=Yes	_	_	_	_	_	_
 29	und	und	CCONJ	KON	_	30	cc	_	_	_	_	_	_	_	_
 30	Serbien	Serbien	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	28	conj	_	NamedEntity=Yes	_	_	_	_	_	_
 31	in	in	ADP	APPR	_	32	case	_	_	_	_	_	_	_	_
@@ -15103,8 +15103,8 @@
 16	um	um	ADP	APPR	_	18	case	_	_	_	_
 17	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_	_	_
 18	Karenztage	Karenztag	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	15	nmod	_	_	_	_
-19	und	und	CCONJ	KON	_	23	cc	_	_	_	A0
-20	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_	_	A0
+19	und	und	CCONJ	KON	_	23	cc	_	_	_	_
+20	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_	_	_
 21	''	''	PUNCT	$(	_	20	punct	_	SpaceAfter=No	_	_
 22	völlige	völlig	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	23	amod	_	_	_	_
 23	Hilflosigkeit	Hilflosigkeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No	_	_

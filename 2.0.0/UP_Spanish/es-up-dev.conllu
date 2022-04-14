@@ -32520,7 +32520,7 @@
 4	con	con	ADP	_	_	6	case	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_	_	_	_	_	_	_	_	_	_	_	_
 6	forma	forma	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_	_	AM-ADV	_	_	_	_	_	_	_	_	_
-7	como	como	ADP	_	_	24	case	_	SpaceAfter=No	_	AM-ADV	_	_	_	_	_	_	_	_	_
+7	como	como	ADP	_	_	24	case	_	SpaceAfter=No	_	_	_	_	_	_	_	_	_	_	_
 8	,	,	PUNCT	_	_	12	punct	_	_	_	_	_	_	_	_	_	_	_	_	_
 9	tal	tal	ADV	_	_	12	advmod	_	_	_	_	_	AM-ADV	_	_	_	_	_	_	_
 10	y	y	CCONJ	_	_	9	fixed	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -33750,7 +33750,7 @@
 3	reducir	reducir	VERB	_	VerbForm=Inf	0	root	_	_	reduce.01	V	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_	_	_	_	_
 5	riesgo	riesgo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_	_	A1	A1	_
-6	de	de	ADP	_	_	8	case	_	_	_	_	A1	_
+6	de	de	ADP	_	_	8	case	_	_	_	_	_	_
 7	padecer	padecer	VERB	_	VerbForm=Inf	8	cop	_	_	suffer.01	_	V	_
 8	retinopatía	retinopatía	NOUN	_	Gender=Fem|Number=Sing	5	acl	_	_	_	_	_	_
 9	diabética	diabético	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_	_	_	_	_
@@ -45213,7 +45213,7 @@
 2	forma	forma	NOUN	_	Gender=Fem|Number=Sing	26	nsubj	_	_	_	_	AM-MNR	_	A1
 3	en	en	ADP	_	_	5	case	_	_	_	_	_	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_	_	_	_	_	_
-5	que	que	PRON	_	PronType=Int,Rel	10	obl	_	_	_	AM-TMP	AM-MNR	_	_
+5	que	que	PRON	_	PronType=Int,Rel	10	obl	_	_	_	AM-TMP	_	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_	_	_	_	_	_
 7	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_	_	A0	A0	_	_
 8	escandinavo	escandinavo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_	_	_	_	_	_

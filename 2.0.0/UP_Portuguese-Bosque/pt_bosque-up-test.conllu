@@ -4753,7 +4753,7 @@
 24	Social	Social	PROPN	_	Number=Sing	23	flat:name	_	_	_	_	_	_	_
 25	de	de	ADP	_	_	26	case	_	_	_	_	_	_	_
 26	Emergência	Emergência	PROPN	_	Number=Sing	23	nmod	_	_	_	_	_	_	_
-27	e	e	CCONJ	_	_	33	cc	_	SpaceAfter=No	_	_	_	A1	_
+27	e	e	CCONJ	_	_	33	cc	_	SpaceAfter=No	_	_	_	_	_
 28	,	,	PUNCT	_	_	30	punct	_	_	_	_	_	_	_
 29	em	em	ADP	_	_	30	case	_	MWE=em_seguida	_	_	_	_	_
 30	seguida	seguida	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No	_	_	_	_	_
@@ -5108,7 +5108,7 @@
 2	que	que	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No	_	_	_	_	_
 3	,	,	PUNCT	_	_	2	punct	_	_	_	_	_	_	_
 4	apesar	apesar	ADV	_	_	8	case	_	MWE=apesar_de|MWEPOS=ADP	_	_	_	_	_
-5	de	de	ADP	_	_	4	fixed	_	_	_	A1	_	_	_
+5	de	de	ADP	_	_	4	fixed	_	_	_	_	_	_	_
 6	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	MWE=todas_as	_	_	_	_	_
 7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	fixed	_	_	_	_	_	_	_
 8	tentativas	tentativa	NOUN	_	Gender=Fem|Number=Plur	36	obl	_	_	_	A1	_	AM-ADV	_
@@ -13838,7 +13838,7 @@
 60	vistos	ver	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	13	advcl	_	_	see.01	_	_	_	_	_	_	_	V	_	_	_	_
 61	a	a	ADP	_	_	65	case	_	MWE=a_partir_de|MWEPOS=ADP	_	_	_	_	_	_	_	_	_	_	_	_	_
 62	partir	partir	NOUN	_	_	61	fixed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-63	de	de	ADP	_	_	61	fixed	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
+63	de	de	ADP	_	_	61	fixed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 64	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	65	det	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 65	perspectiva	perspectiva	NOUN	_	Gender=Fem|Number=Sing	60	obl	_	_	_	_	_	_	_	_	_	_	_	A1	_	_	_
 66	errada	errar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	65	acl	_	_	miss.02	_	_	_	_	_	_	_	_	V	_	_	_

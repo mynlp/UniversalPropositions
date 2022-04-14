@@ -5600,12 +5600,12 @@
 12	in	in	ADP	APPR	_	13	case	_	_	_	_	_	_	_
 13	Kauf	Kauf	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_	_	_	AM-LOC	_	_
 14	nehme	nehmen	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_	take.01	A1	V	_	_
-15	um	um	ADP	APPR	_	26	mark	_	_	_	A1	_	_	_
-16	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	26	obj	_	_	_	A1	_	_	_
+15	um	um	ADP	APPR	_	26	mark	_	_	_	_	_	_	_
+16	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	26	obj	_	_	_	_	_	_	_
 17	bei	bei	ADP	APPR	_	19	case	_	_	_	_	_	_	_
 18	Herrn	Herr	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	19	compound	_	_	_	_	_	_	_
-19	Klimmet	Klimmet	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	NamedEntity=Yes	_	A1	_	_	AM-LOC
-20	ordentlich	ordentlich	ADV	ADJD	_	24	advmod	_	_	_	A1	_	AM-MNR	_
+19	Klimmet	Klimmet	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	NamedEntity=Yes	_	_	_	_	AM-LOC
+20	ordentlich	ordentlich	ADV	ADJD	_	24	advmod	_	_	_	_	_	AM-MNR	_
 21	und	und	CCONJ	KON	_	22	cc	_	_	_	_	_	_	_
 22	freundlich	freundlich	ADV	ADJD	_	20	conj	_	SpaceAfter=No	_	_	_	_	_
 23	,	,	PUNCT	$,	_	20	punct	_	_	_	_	_	_	_
@@ -10412,7 +10412,7 @@
 1	US	US	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	compound	_	SpaceAfter=No	_	_
 2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No	_	_
 3	Präsident	Präsident	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_	_	A0
-4	Bill	Bill	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes	_	A0
+4	Bill	Bill	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes	_	_
 5	Clinton	Clinton	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	NamedEntity=Yes	_	_
 6	sagte	sagen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	cancel.01	V
 7-8	am	_	_	_	_	_	_	_	_	_	_
@@ -13991,7 +13991,7 @@
 1	UN	UN	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	compound	_	SpaceAfter=No	_	_
 2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No	_	_
 3	Generalsekretär	Generalsekretär	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_	_	A0
-4	Butros	Butros	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes	_	A0
+4	Butros	Butros	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes	_	_
 5	Butros	Butros	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	SpaceAfter=No|NamedEntity=Yes	_	_
 6	-	-	PUNCT	$(	_	7	punct	_	SpaceAfter=No	_	_
 7	Ghali	Ghali	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	NamedEntity=Yes	_	_
@@ -14740,7 +14740,7 @@
 1	CSU	CSU	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	compound	_	SpaceAfter=No	_	_	_
 2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No	_	_	_
 3	Generalsekretär	Generalsekretär	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_	_	A0	_
-4	Bernd	Bernd	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes	_	A0	_
+4	Bernd	Bernd	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes	_	_	_
 5	Protzner	Protzner	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	NamedEntity=Yes	_	_	_
 6	betonte	betonen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No	stress.01	V	_
 7	,	,	PUNCT	$,	_	15	punct	_	_	_	_	_

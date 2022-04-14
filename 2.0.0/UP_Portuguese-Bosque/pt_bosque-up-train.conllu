@@ -7848,7 +7848,7 @@
 11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_	_	_	_	_
 12	país	país	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No	_	_	_	_
 13	;	;	PUNCT	_	_	4	punct	_	_	_	_	_	_
-14	anteontem	anteontem	ADV	_	_	18	advmod	_	SpaceAfter=No	_	_	AM-TMP	AM-ADV
+14	anteontem	anteontem	ADV	_	_	18	advmod	_	SpaceAfter=No	_	_	_	AM-ADV
 15	,	,	PUNCT	_	_	18	punct	_	_	_	_	_	_
 16	ele	ele	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_	_	_	_	A1
 17	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_	be.01	_	_	V
