@@ -1032,7 +1032,7 @@
 16	with	with	SCONJ	IN	_	19	mark	19:mark	_	_	_	_	_	_	_	_	_	_	_
 17	John	John	PROPN	NNP	Number=Sing	19	nsubj	19:nsubj	_	_	_	_	_	ARG0	_	_	_	_	_
 18	Roberts	Roberts	PROPN	NNP	Number=Sing	17	flat	17:flat	_	_	_	_	_	_	_	_	_	_	_
-19	abstaining	abstain	VERB	VBG	VerbForm=Ger	12	advcl	12:advcl:with	_	abstain.01	_	_	_	V	_	_	_	_	_
+19	abstaining	abstain	VERB	VBG	VerbForm=Ger	12	advcl	12:advcl:with	_	abstain.01	ARGM-ADV	_	_	V	_	_	_	_	_
 20	due	due	ADP	IN	_	23	case	23:case	_	_	_	_	_	_	_	_	_	_	_
 21	to	to	ADP	IN	_	20	fixed	20:fixed	_	_	_	_	_	_	_	_	_	_	_
 22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_	_	_	_	_	_	ARG1	_	_	_	_

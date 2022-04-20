@@ -15277,7 +15277,7 @@
 11	tastes	taste	NOUN	NNS	Number=Plur	8	obj	8:obj	_	taste.01	_	ARG1	V	_
 12	as	as	SCONJ	IN	_	14	mark	14:mark	_	_	_	_	_	_
 13	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_	_	_	_	_	_
-14	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advmod	10:advmod	_	do.01	_	_	_	V
+14	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advmod	10:advmod	_	do.01	_	_	ARGM-ADJ	V
 15	?	?	PUNCT	.	_	1	punct	1:punct	_	_	_	_	_	_
 
 # sent_id = newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0002
@@ -18439,7 +18439,7 @@
 # text = Do people Bare-knuckle box in Ireland?
 1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_	do.01	V	_
 2	people	people	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_	_	_	ARG0
-3	Bare	bare	ADJ	JJ	Degree=Pos	5	amod	5:amod	SpaceAfter=No	_	_	_
+3	Bare	bare	ADJ	JJ	Degree=Pos	5	amod	5:amod	SpaceAfter=No	_	_	ARGM-MNR
 4	-	-	PUNCT	HYPH	_	5	punct	5:punct	SpaceAfter=No	_	_	_
 5	knuckle	knuckle	NOUN	NN	Number=Sing	6	obl:npmod	6:obl:npmod	_	_	_	ARGM-MNR
 6	box	box	VERB	VB	VerbForm=Inf	0	root	0:root	_	box.03	_	V
@@ -18482,7 +18482,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_	_	_
 5	traveler	traveler	NOUN	NN	Number=Sing	6	compound	6:compound	_	_	_
 6	community	community	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	_	_	_
-7	bare	bare	ADJ	JJ	Degree=Pos	8	amod	8:amod	_	_	_
+7	bare	bare	ADJ	JJ	Degree=Pos	8	amod	8:amod	_	_	ARGM-MNR
 8	knuckle	knuckle	NOUN	NN	Number=Sing	9	obl:npmod	9:obl:npmod	_	_	ARGM-MNR
 9	box	box	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No	box.03	V
 10	.	.	PUNCT	.	_	9	punct	9:punct	SpaceAfter=No	_	_

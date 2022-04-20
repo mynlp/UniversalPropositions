@@ -15803,7 +15803,7 @@
 24	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_	be.01	V	_	_
 25	desde	desde	ADP	_	_	27	case	_	_	_	_	_	_
 26	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_	_	_	_	_
-27	ano	ano	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	_	_	AM-TMP	_	_
+27	ano	ano	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	_	_	_	_	_
 28	passado	passado	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_	pass.03	_	V	_
 29	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_	_	_	_	_
 30	director	director	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_	_	AM-TMP	_	_

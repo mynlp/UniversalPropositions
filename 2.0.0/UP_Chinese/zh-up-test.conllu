@@ -1617,7 +1617,7 @@
 6	地貌	地貌	NOUN	NN	_	7	compound	_	SpaceAfter=No	_	_	_	_
 7	學	學	PART	SFN	_	8	nsubj	_	SpaceAfter=No	_	_	_	_
 8	出現	出現	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No	appear.01	A2	V	_
-9	分支	分支	NOUN	NN	_	10	nmod	_	SpaceAfter=No	_	_	_	_
+9	分支	分支	NOUN	NN	_	10	nmod	_	SpaceAfter=No	_	_	AM-LOC	_
 10	學科	學科	NOUN	NN	_	8	obj	_	SpaceAfter=No	_	_	AM-LOC	_
 11	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No	_	_	_	_
 12	時期	時期	NOUN	NN	_	0	root	_	SpaceAfter=No	_	_	_	_
@@ -4550,7 +4550,7 @@
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No	_	_
 3	10	10	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No	_	_
 4	月	月	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No	_	AM-TMP
-5	起	起	ADP	IN	_	4	acl	_	SpaceAfter=No	_	_
+5	起	起	ADP	IN	_	4	acl	_	SpaceAfter=No	_	AM-TMP
 6	,	,	PUNCT	,	_	11	punct	_	SpaceAfter=No	_	_
 7	本作	本作	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No	_	_
 8	改編	改編	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No	_	_
@@ -5954,7 +5954,7 @@
 5	九	九	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No	_	_	_	_
 6	年	年	NOUN	NNB	_	2	appos	_	SpaceAfter=No	_	_	_	_
 7	)	)	PUNCT	)	_	6	punct	_	SpaceAfter=No	_	_	_	_
-8	8	8	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No	_	_	_	_
+8	8	8	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No	_	_	_	AM-TMP
 9	月	月	NOUN	NNB	_	23	nmod:tmod	_	SpaceAfter=No	_	_	_	AM-TMP
 10	,	,	PUNCT	,	_	23	punct	_	SpaceAfter=No	_	_	_	_
 11	澤田	澤田	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No	_	AM-DIS	AM-TMP	A1
@@ -7478,7 +7478,7 @@
 60	在	在	ADP	IN	_	64	case	_	SpaceAfter=No	_	_	_	_
 61	2005	2005	NUM	CD	NumType=Card	62	nummod	_	SpaceAfter=No	_	_	_	_
 62	年	年	NOUN	NNB	_	64	clf	_	SpaceAfter=No	_	_	_	_
-63	11	11	NUM	CD	NumType=Card	64	nummod	_	SpaceAfter=No	_	_	_	_
+63	11	11	NUM	CD	NumType=Card	64	nummod	_	SpaceAfter=No	_	_	_	AM-TMP
 64	月	月	NOUN	NNB	_	67	obl	_	SpaceAfter=No	_	_	_	AM-TMP
 65	澳洲	澳洲	PROPN	NNP	_	66	nmod	_	SpaceAfter=No	_	_	_	_
 66	阿德萊德	阿德萊德	PROPN	NNP	_	67	advmod	_	SpaceAfter=No	_	_	_	A0
@@ -8393,7 +8393,7 @@
 1	1980	1980	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No	_	_	_
 2	年代	年代	NOUN	NNB	_	3	clf	_	SpaceAfter=No	_	_	_
 3	中期	中期	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No	_	AM-TMP	_
-4	起	起	ADP	IN	_	3	acl	_	SpaceAfter=No	_	_	_
+4	起	起	ADP	IN	_	3	acl	_	SpaceAfter=No	_	AM-TMP	_
 5	奧林匹亞	奧林匹亞	PROPN	NNP	_	6	nmod	_	SpaceAfter=No	_	_	_
 6	公司	公司	NOUN	NN	_	9	nmod	_	SpaceAfter=No	_	_	_
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No	_	_	_
@@ -10187,7 +10187,7 @@
 5	與	與	ADP	IN	_	6	case	_	SpaceAfter=No	_	_	_	_	_	_
 6	英國	英國	PROPN	NNP	_	7	obl	_	SpaceAfter=No	_	_	_	_	_	_
 7	脫離	脫離	VERB	VV	_	27	advcl	_	SpaceAfter=No	_	_	_	_	AM-TMP	_
-8	關係	關係	NOUN	NN	_	7	obj	_	SpaceAfter=No	_	_	_	_	_	_
+8	關係	關係	NOUN	NN	_	7	obj	_	SpaceAfter=No	_	_	_	_	AM-TMP	_
 9	,	,	PUNCT	,	_	27	punct	_	SpaceAfter=No	_	_	_	_	_	_
 10	1906	1906	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No	_	_	_	_	_	_
 11	年	年	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No	_	A1	_	_	_	_
@@ -10338,7 +10338,7 @@
 38	,	,	PUNCT	,	_	44	punct	_	SpaceAfter=No	_	_	_	_	_	_
 39	常	常	ADV	RB	_	44	advmod	_	SpaceAfter=No	_	_	_	_	AM-TMP	_
 40	以	以	ADP	IN	_	43	case	_	SpaceAfter=No	_	_	_	_	_	_
-41	世襲	世襲	VERB	VV	_	43	acl:relcl	_	SpaceAfter=No	_	_	_	_	_	_
+41	世襲	世襲	VERB	VV	_	43	acl:relcl	_	SpaceAfter=No	_	_	_	_	AM-TMP	_
 42	的	的	PART	DEC	_	41	mark:rel	_	SpaceAfter=No	_	_	_	_	_	_
 43	方式	方式	NOUN	NN	_	44	obl	_	SpaceAfter=No	_	_	_	_	AM-TMP	_
 44	固定	固定	VERB	VV	_	5	parataxis	_	SpaceAfter=No	fix.03	_	_	_	V	_
@@ -11281,7 +11281,7 @@
 # text = 2004 年 起 , 原 效實 中學 高中 所 轄 「 國際 部 」 取消 , 其 編製 劃入 寧波 外國 語 學校 編製 內 , 稱 為 「 寧波 外國 語 學校 高中 部 」 .
 1	2004	2004	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No	_	_	_	_
 2	年	年	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No	_	AM-TMP	_	_
-3	起	起	ADP	IN	_	2	acl	_	SpaceAfter=No	_	_	_	_
+3	起	起	ADP	IN	_	2	acl	_	SpaceAfter=No	_	AM-TMP	_	_
 4	,	,	PUNCT	,	_	15	punct	_	SpaceAfter=No	_	_	_	_
 5	原	原	PART	PFA	_	8	case	_	SpaceAfter=No	_	_	_	_
 6	效實	效實	PROPN	NNP	_	8	nmod	_	SpaceAfter=No	_	_	_	_
@@ -11832,7 +11832,7 @@
 24	在	在	ADP	IN	_	28	case	_	SpaceAfter=No	_	_	_	_
 25	同	同	DET	DT	_	27	det	_	SpaceAfter=No	_	_	_	_
 26	一	一	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No	_	_	_	_
-27	間	間	NOUN	NNB	_	28	nmod	_	SpaceAfter=No	_	_	_	_
+27	間	間	NOUN	NNB	_	28	nmod	_	SpaceAfter=No	_	_	_	AM-LOC
 28	寢室	寢室	NOUN	NN	_	23	obl	_	SpaceAfter=No	_	_	_	AM-LOC
 29	.	.	PUNCT	.	_	23	punct	_	SpaceAfter=No	_	_	_	_
 
@@ -11929,7 +11929,7 @@
 
 # sent_id = test-s442
 # text = 1764 年 , 馬塞納 的 父親 去世 , 母親 改嫁 , 他 被 送到 親戚 處 寄養 .
-1	1764	1764	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No	_	_
+1	1764	1764	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No	_	AM-TMP
 2	年	年	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No	_	AM-TMP
 3	,	,	PUNCT	,	_	7	punct	_	SpaceAfter=No	_	_
 4	馬塞納	馬塞納	PROPN	NNP	_	6	nmod	_	SpaceAfter=No	_	_
@@ -12451,7 +12451,7 @@
 2	基建	基建	NOUN	NN	_	3	nmod	_	SpaceAfter=No	_	_	_	_
 3	工程	工程	NOUN	NN	_	12	nsubj	_	SpaceAfter=No	_	A0	A0	_
 4	在	在	ADP	IN	_	6	case	_	SpaceAfter=No	_	_	_	_
-5	2015	2015	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No	_	_	_	_
+5	2015	2015	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No	_	AM-TMP	_	_
 6	年	年	NOUN	NNB	_	8	obl	_	SpaceAfter=No	_	AM-TMP	_	_
 7	中	中	ADP	IN	_	6	acl	_	SpaceAfter=No	_	_	_	_
 8	完成	完成	VERB	VV	_	12	advcl	_	SpaceAfter=No	finish.01	V	A2	_
@@ -12631,7 +12631,7 @@
 # sent_id = test-s470
 # text = 1952 年 12 月 美國 總統 艾森豪威爾 訪問 韓國 , 他 擔任 檢閱 主管 .
 1	1952	1952	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No	_	_	_
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No	_	_	_
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No	_	AM-TMP	_
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No	_	_	_
 4	月	月	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No	_	AM-TMP	_
 5	美國	美國	PROPN	NNP	_	6	nmod	_	SpaceAfter=No	_	_	_

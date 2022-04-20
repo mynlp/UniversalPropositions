@@ -5304,7 +5304,7 @@
 28	sitte	sitten	ADV	Adv	Style=Coll	16	conj	16:conj	_	_	_	_	_	_	AM-TMP	_	_
 29	se	se	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	28	nsubj:cop	28:nsubj:cop	_	_	_	_	_	_	_	_	_
 30	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	cop	28:cop	_	be.01	_	_	_	_	V	_	_
-31	vaa	vaan	ADV	Adv	Style=Coll	28	advmod	28:advmod	_	_	_	_	_	_	AM-TMP	_	_
+31	vaa	vaan	ADV	Adv	Style=Coll	28	advmod	28:advmod	_	_	_	_	_	_	_	_	_
 32	et	että	SCONJ	C	Style=Coll	33	mark	33:mark	_	_	_	_	_	_	_	_	_
 33	jaa	jaa	INTJ	Interj	_	31	ccomp	31:ccomp	_	_	_	_	_	_	_	_	_
 34	että	että	SCONJ	C	_	39	mark	39:mark	_	_	_	_	_	_	_	_	_
